@@ -1,0 +1,9 @@
+gtk4/*
+!gtk4/*.c
+!gtk4/README.md
+
+third_party/*
+!third_party/.keep
+
+._*
+*/._*

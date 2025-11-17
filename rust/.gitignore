@@ -1,9 +1,5 @@
 */**/target
 
-c/gtk4/*
-!c/gtk4/*.c
-!c/gtk4/README.md
-
 third_party/*
 !third_party/.keep
 !third_party/gtk4-rs
