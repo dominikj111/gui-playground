@@ -2,6 +2,10 @@
 
 A simple demonstration of ImGui in Rust featuring interactive buttons, text manipulation, and custom drawing.
 
+Works on:
+Raspberry Pi 4 [Debian GNU/Linux 12 (bookworm)]
+Linux MX 23 [Debian GNU/Linux 12 (bookworm)] - Radeon HD 6290
+
 ## Features
 
 - **Counter Controls**: Increment, decrement, and reset buttons
