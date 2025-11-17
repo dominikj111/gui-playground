@@ -9,7 +9,7 @@ edition = "2024"
 debug-assertions = false
 
 [dependencies]
-iced = { path = "../iced", features = ["canvas", "tokio"] }
+iced = { path = "../../third_party/iced", features = ["canvas", "tokio"] }
 
 [dev-dependencies]
-iced_test = { path = "../iced/test" }
+iced_test = { path = "../../third_party/iced/test" }

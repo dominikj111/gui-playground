@@ -1,4 +1,10 @@
 */target
 
+third_party/*
+!third_party/.keep
+!third_party/gtk4-rs
+!third_party/iced
+!third_party/Relm4
+
 ._*
 */._*

@@ -1,0 +1,9 @@
+[submodule "rust/third_party/gtk4-rs"]
+	path = rust/third_party/gtk4-rs
+	url = git@github.com:gtk-rs/gtk4-rs.git
+[submodule "rust/third_party/iced"]
+	path = rust/third_party/iced
+	url = git@github.com:iced-rs/iced.git
+[submodule "rust/third_party/Relm4"]
+	path = rust/third_party/Relm4
+	url = git@github.com:Relm4/Relm4.git
