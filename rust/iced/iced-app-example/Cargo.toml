@@ -1,0 +1,15 @@
+[package]
+name = "icedapp"
+version = "0.1.0"
+edition = "2024"
+
+# Workaround for macOS Sequoia (15.0+) objc2-foundation compatibility issue
+# See: https://github.com/iced-rs/iced/issues/3057
+[profile.dev.package.objc2]
+debug-assertions = false
+
+[dependencies]
+iced = { path = "../iced", features = ["canvas", "tokio"] }
+
+[dev-dependencies]
+iced_test = { path = "../iced/test" }
