@@ -12,3 +12,8 @@ gcc `pkg-config --cflags gtk4` -o gtk_app main.c `pkg-config --libs gtk4`
 
 ./gtk_app
 
+## Test environments
+
+Raspberry Pi 4 [Debian GNU/Linux 12 (bookworm)]
+
+Linux MX 23 [Debian GNU/Linux 12 (bookworm)] - Radeon HD 6290
