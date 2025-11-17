@@ -1,6 +1,6 @@
-# iced-app-example
+# fltk
 
-Run `source .low_profile` to work on week low PCs
+CMake 3.28 or higher is required
 
 Works on:
 Raspberry Pi 4 [Debian GNU/Linux 12 (bookworm)]
