@@ -7,3 +7,6 @@
 [submodule "rust/third_party/Relm4"]
 	path = rust/third_party/Relm4
 	url = git@github.com:Relm4/Relm4.git
+[submodule "go/third_party/fyne-examples"]
+	path = go/third_party/fyne-examples
+	url = git@github.com:fyne-io/examples.git
