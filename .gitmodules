@@ -10,3 +10,6 @@
 [submodule "go/third_party/fyne-examples"]
 	path = go/third_party/fyne-examples
 	url = git@github.com:fyne-io/examples.git
+[submodule "rust/third_party/egui"]
+	path = rust/third_party/egui
+	url = git@github.com:emilk/egui.git

@@ -6,6 +6,7 @@ third_party/*
 !third_party/gtk4-rs
 !third_party/iced
 !third_party/Relm4
+!third_party/egui
 
 ._*
 */._*
