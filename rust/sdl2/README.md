@@ -2,6 +2,10 @@
 
 A classic Pong game implementation showcasing SDL2's capabilities for 2D graphics, animation, and input handling.
 
+Works on:
+Raspberry Pi 4 [Debian GNU/Linux 12 (bookworm)]
+Linux MX 23 [Debian GNU/Linux 12 (bookworm)] - Radeon HD 6290
+
 ## Features
 
 - **Classic Pong Gameplay**: Two-player paddle game with ball physics
