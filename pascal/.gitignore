@@ -5,3 +5,4 @@ third_party/*
 !*.sh
 !*.pas
 !.gitignore
+!*.md
