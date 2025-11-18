@@ -13,3 +13,6 @@
 [submodule "rust/third_party/egui"]
 	path = rust/third_party/egui
 	url = git@github.com:emilk/egui.git
+[submodule "pascal/third_party/fpGUI"]
+	path = pascal/third_party/fpGUI
+	url = git@github.com:graemeg/fpGUI.git
