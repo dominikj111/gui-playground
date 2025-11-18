@@ -1,0 +1,7 @@
+third_party/*
+!third_party/fpGUI
+
+*
+!*.sh
+!*.pas
+!.gitignore
